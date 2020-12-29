@@ -1,0 +1,130 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+    font-size: 13px;
+    font-family: Barlow Semi Condensed;
+    color: white;
+    padding: 50px;
+}
+
+h3{
+    margin: 0 auto 0 auto;
+}
+
+h4{
+    margin: 0 auto 0 auto;
+    color: hsl(0, 0%, 81%);
+    opacity: 0.5;
+    
+}
+
+.bigtext{
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+.purple{
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 15px;
+    display: inline-block;
+    height: 280px;
+    width: 540px;
+    text-align: left;
+    line-height: 1.4;
+    padding: 25px 30px 25px 30px;
+
+}
+
+.grey{
+    background-color: hsl(217, 19%, 35%);
+    border-radius: 15px;
+    display: inline-block;
+    height: 280px;
+    width: 255px;
+    text-align: left;
+    line-height: 1.4;
+    padding: 25px 30px 25px 30px;
+    position: relative;
+    top: 55px;
+    left: 25px;
+    
+}
+.white1{
+    background-color: white;
+    border-radius: 15px;
+    display: inline-block;
+    height: 260px;
+    width: 250px;
+    text-align: left;
+    line-height: 1.4;
+    padding: 25px 30px 25px 30px;
+    position: relative;
+    top: 392px;
+    right: 920px
+}
+
+.white2{
+    background-color: white;
+    border-radius: 15px;
+    display: inline-block;
+    height: 615px;
+    width: 255px;
+    text-align: left;
+    line-height: 1.4;
+    padding: 25px 30px 25px 30px;
+    position: relative;
+    bottom: 333px;
+    left: 365px;
+}
+
+.black{
+    background-color: hsl(219, 29%, 14%);
+    border-radius: 15px;
+    display: inline-block;
+    height: 260px;
+    width: 540px;
+    text-align: left;
+    line-height: 1.4;
+    padding: 25px 30px 25px 30px;
+    position: relative;
+    bottom: 165px;
+    left: 340px;
+}
+
+.blacktext{
+    color: black;
+}
+
+.profilepic{
+    border: solid 1px white;
+    border-radius: 50%;
+    width: 7%;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+}
+
+.profilepic1{
+    border: solid 1px white;
+    border-radius: 50%;
+    width: 12%;
+    float: left;
+    margin-right: 10px;
+    position: relative;
+}
+
+.quotation{
+    position: relative;
+    bottom: 50px;
+    left: 350px;
+}
+
+.smalltext{
+    color: hsl(0, 0%, 81%);
+    line-height: 1.4;
+    opacity: 0.7;
+}
+.textbox{
+    position: absolute;
+    max-width: 540px;
+    top: 180px;
+    
+}
